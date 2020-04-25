@@ -81,3 +81,20 @@ a {
     background-attachment: scroll;
   }
 }
+
+.foot {
+  position: fixed;
+  opacity: 1;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 1000;
+}
+
+.foot p {
+  font-weight: 1.5rem;
+}
